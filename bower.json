@@ -6,7 +6,7 @@
   "dependencies": {
     "arcgis-to-geojson-utils": "esri/arcgis-to-geojson-utils#^1.0.1",
     "leaflet": "^1.0.0",
-    "leaflet-virtual-grid": "esri/leaflet-virtual-grid#^1.0.3",
+    "leaflet-virtual-grid": "patrickarlt/leaflet-virtual-grid#^1.0.3",
     "tiny-binary-search": "patrickarlt/tiny-binary-search#^1.0.2"
   },
   "ignore": [
